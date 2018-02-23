@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidActivityLifeCycle</string>
+    <string name="next_activity">Press for next activity</string>
+</resources>
